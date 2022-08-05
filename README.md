@@ -21,4 +21,4 @@ Finally the password will be showed in the textarea.
 ![Password Generator](./Assets/images/5.png)
 ![Password Generator](./Assets/images/6.png)
 
-https://midnightwxd.github.io/Tempura/
+https://midnightwxd.github.io/Tempura-Password-Generator/
